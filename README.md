@@ -10,7 +10,7 @@ Run the python file image2text.py in Anaconda command prompt.
 
 The UI appears as seen below
 
-![Screenshot (720)](https://user-images.githubusercontent.com/53952516/140748116-b2787674-8018-4235-8083-cd71c19a59b2.png)
+![Screenshot (724)](https://user-images.githubusercontent.com/53952516/140748425-ce82506d-62d3-4e22-91dc-e15499ec2e99.png)
 
 The following image is uploaded as an example:
 
